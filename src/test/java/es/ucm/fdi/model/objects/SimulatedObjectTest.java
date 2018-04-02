@@ -10,7 +10,6 @@ import java.io.OutputStream;
 
 public class SimulatedObjectTest
 {
-	@Test
 	public void escribeInformeTest1() throws IOException
 	{
 		Vehicle car = new Vehicle();
