@@ -1,9 +1,8 @@
 #Indicamos los tipos de archivos y directorios que queremos ignorar
 
 /target/
-	#Directorio target con los .class
-/bin/		#Directorio de binarios
-.classpath	#??
-.project	#??
-*.class		#Generados del .java
-*.jar		#Paquetes
+/bin/		
+.classpath	
+.project	
+*.class		
+*.jar
