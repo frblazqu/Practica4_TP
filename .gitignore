@@ -1,7 +1,7 @@
 #Indicamos los tipos de archivos y directorios que queremos ignorar
-
 /target/
-/bin/		
+/bin/
+/.settings/		
 .classpath	
 .project	
 *.class		
